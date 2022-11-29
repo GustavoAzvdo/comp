@@ -1,0 +1,23 @@
+.menu2{
+    display: flex;
+    justify-content: center;
+  
+    align-items: center;
+    background-color: rgb(139, 122, 122);
+}
+
+
+.p2-2{
+    color:red;
+}
+.div2{
+    width: 40vw;
+    height: 30vh;
+    padding: 10px;
+    text-align: center;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: aqua;
+}

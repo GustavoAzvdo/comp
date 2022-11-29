@@ -1,21 +1,31 @@
-
-
-.itens1{
-    padding: 20px;
-    display: inline;
-}
-.li1{
-    display: inline;
-    padding: 10px 20px 10px 20px ;
-}
-.barra-menu1{    
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+.menu3{
+    background: linear-gradient(#fff,#c8a2c8);
 }
 
-*{
-    font-family: 'Jost';
+
+.header3{
+   
+    text-align: center;
+}
+.ul3{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    list-style-type: none;
+}
+.button3{
+    font-size: 20px;
+    border-radius: 15px;
+    border: 3px solid yellow;
+    background-color: yellow;
+}
+.h1-3{
+    color: #939;
+    font-weight: 600;
+    font-size:50px;
+}
+.li-p-3{
+    
+    font-size: 19px;  
 }
 @font-face {
     font-family: 'Jost';
@@ -28,4 +38,4 @@
          url('../fonts/jost-v14-latin-regular.woff') format('woff'), /* Modern Browsers */
          url('../fonts/jost-v14-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/jost-v14-latin-regular.svg#Jost') format('svg'); /* Legacy iOS */
-  }
+}
