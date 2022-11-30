@@ -1,33 +1,21 @@
-.features1{
-    background-color: rgb(223, 223, 23);
+*{
+    font-family: 'Jost';
 }
-
-
-.div-features1{
-   
-    text-align: center;
+.body1{
+height: 20vh;
+    width: 49vw;
+   border-radius: 4px;
+    background-color: #729be8
 }
-.ul1{
-    padding-top: 50px;
-    padding-bottom: 50px;
-    list-style-type: none;
-}
-.button1{
-    padding: 9px 12px 9px 12px;
-    color: #fff;
-    font-size: 15px;
-    border-radius: 15px;
-    border: 3px solid #000;
-    background-color: #000;
-}
-.h1-1{
-    color: #000;
-    font-weight: 1000;
-    font-size:50px;
-}
-.li-p-1{
-    
-    font-size: 19px;  
+.article1{
+    height: 16vh;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    margin-left: 3px;
+    width: 49vw;
+    border-radius: 2px;
+    background-color: #fafafa
 }
 @font-face {
     font-family: 'Jost';
