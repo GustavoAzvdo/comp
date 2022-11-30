@@ -1,0 +1,33 @@
+
+.features2{
+   
+    width: 100vw;
+    height: 50vh;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.titulos2{
+    padding-top: 60px;
+}
+.li-more-2{
+    margin-left: -90px;
+    color: blue;
+    text-align: left;
+    list-style-type: none;
+}
+.blocos2{
+    display: inline-flex;
+    justify-content: space-between;
+    list-style-type: none;
+  
+}
+.li2{
+    margin-left: -90px;
+    font-size: 23px;
+    text-align: left;
+    list-style-type: none;
+}
+.ul2{
+    left: -40px;
+    padding-left: 60px;
+}
