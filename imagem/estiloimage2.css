@@ -1,5 +1,51 @@
+*{
+font-family: 'Jost',normal;
+}
+
 .h1-2{
-    
-    margin-top: 18px;
+   
+    text-align: center;
+    margin-top: 20px;
     font-size: 50px;
+}
+
+.li2{
+    padding-top: 30px;
+    width: 35vw;
+    margin-bottom:  40px;
+    padding-left: -40px;
+    padding-bottom: 30px;
+    
+    text-align: left;
+    list-style-type: none;
+}
+.imagens2{
+    margin-top: 20px;   
+    display: flex;
+    justify-content: space-around;
+}
+.ul2{
+    
+    padding: -400px;
+    margin-bottom: 1950px;
+}
+.img2{
+    
+    list-style-type:none ;
+    height: 40px;
+   
+}
+.img2-2{
+    margin-left: 145px;
+    padding-right: 35px;
+    margin-top: 186px;
+    padding-top: 50px;
+    height: 8vh;
+    text-align: center;
+    display: inline;
+    list-style-type: none;
+}
+.body2{
+    border:2px solid black;
+    height: 70vh;
 }
