@@ -1,0 +1,21 @@
+*{
+    font-family: 'Jost',normal;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 2.5%;
+    padding: 5px;
+}
+.social1{
+    text-align: center;
+}
+.title1{
+    font-size: 30px;
+}
+.p1{
+    margin-top: -20px;
+    text-align: center;
+}

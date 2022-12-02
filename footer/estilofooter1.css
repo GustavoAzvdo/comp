@@ -10,25 +10,38 @@ body{
     background-color: #232323
 }
 .ul1{
-    margin-left: 490px;
-    padding-top: 25px;
+    margin-left: 560px;
+    padding-top: 30px;
+    
     width: 30vw;
-    border: 2px solid #47b5ed;
+    
     list-style-type: none;
     display:flex;
     text-align: center;
     justify-content: space-around
 
 }
+.img1{
+    padding: 3px;
+   
+    width: 2%;
+    text-align: center;
+}
 .li1{
-    border: 2px solid #47b5ed;
-    
+    font-size: 20px;
+  
+    padding: 10px;
     color: #47b5ed;
 }
 .p1{
     color: #fff;
     font-size: 20px;
     text-align: center;
-    margin-top: 70px;
-    border: 2px solid #47b5ed;
+    margin-top: 8px;
+   
+}
+.imagem1{
+   text-align: center;
+ 
+    width: 90;
 }
