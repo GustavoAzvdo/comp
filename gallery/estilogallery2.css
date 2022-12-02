@@ -1,0 +1,37 @@
+*{
+    font-family: 'Jost',normal;
+}
+
+.gallery2{
+    height: 65vh;
+    border: 2px solid black;
+}
+.h1-2{
+    font-size: 50px;
+    text-align: center;
+}
+.text2{
+    font-size: 30px;
+    text-align: center;
+    margin-top: -40px;
+    border: 2px solid black;
+}
+.boxes2{
+    display: inline;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.box2{
+    margin-left: 70px;
+    margin-right: 40px;
+   padding: 10;
+   display: inline-flex;
+   
+    list-style-type: none;
+    padding-right: -100px;
+    border: 2px solid black;
+}
+.p2{
+    display: inline-flex;
+}

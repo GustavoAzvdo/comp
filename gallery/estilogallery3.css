@@ -1,0 +1,21 @@
+.gallery3{
+   
+    width: 90vw;
+    margin-left: 60px;
+}
+.h1-3{
+    text-align: center;
+    font-size: 40px;
+}
+.ul3{    
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.img3{
+    text-align: center;
+    border: 2px solid black;
+    padding: 80px;
+    padding-left: 110px;
+    padding-right: 110px;
+}

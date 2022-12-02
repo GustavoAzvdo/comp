@@ -1,0 +1,39 @@
+*{
+    font-family: 'Jost',normal;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.span1{    
+    width: 100vw;
+    height: 40vh;
+}
+.title1{
+    border: 2px solid black;
+}
+
+.ul1{
+   
+    border: 2px solid black;
+    list-style-type: none;
+    text-align: center;   
+}
+.i1{
+   
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    border-color: #d3d3d3;
+    text-align: justify;
+    color: black;
+
+}
+.btn1{
+    font-size: 19px;
+    padding-left: 136px;
+    padding-right: 136px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

@@ -1,0 +1,37 @@
+*{
+    font-family: 'Lost',normal;
+}
+
+.gallery1{
+    height: 110vh;
+    border: 2px solid black;
+}
+.h1{
+    font-size: 45px;
+    text-align: center;
+}
+.li1{   
+    text-align: center;
+    padding: 130px;
+    border: 2px solid black;
+    display: inline;   
+}
+.li1-1{
+    text-align: center;
+    padding: 130px;
+    display: inline;
+    border: 2px solid black;
+   
+}
+.ul1{ 
+    margin-top: 200px;
+    justify-content: space-between;
+    list-style-type: none;
+    text-align: center;
+}
+.ul1-1{
+    margin-top: 300px;
+    justify-content: space-between;
+    list-style-type: none;
+    text-align: center;
+}
