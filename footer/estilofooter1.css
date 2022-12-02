@@ -1,0 +1,34 @@
+*{
+ font-family: 'Lost',normal;
+}
+body{
+    border: 0;
+    padding: 0;
+}
+.footer1{
+    height: 22vh;
+    background-color: #232323
+}
+.ul1{
+    margin-left: 490px;
+    padding-top: 25px;
+    width: 30vw;
+    border: 2px solid #47b5ed;
+    list-style-type: none;
+    display:flex;
+    text-align: center;
+    justify-content: space-around
+
+}
+.li1{
+    border: 2px solid #47b5ed;
+    
+    color: #47b5ed;
+}
+.p1{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70px;
+    border: 2px solid #47b5ed;
+}

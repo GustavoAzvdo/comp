@@ -11,29 +11,39 @@ body{
     height: 40vh;
 }
 .title1{
-    border: 2px solid black;
+    font-size: 40px;
+   
 }
 
 .ul1{
    
-    border: 2px solid black;
     list-style-type: none;
     text-align: center;   
 }
 .i1{
-   
+    
+    text-align: center;
+    border-radius: 4px;
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 10px;
     border-color: #d3d3d3;
-    text-align: justify;
-    color: black;
-
+    
+    
+}
+.input1{
+    margin-top: -10px;
+    
 }
 .btn1{
+    color: #fff;
+    background-color: #6592e6;
+    border: 1px solid #6592e6;  
+    border-radius: 4px;
     font-size: 19px;
     padding-left: 136px;
     padding-right: 136px;
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
